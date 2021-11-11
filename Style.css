@@ -1,0 +1,146 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel&display=swap');
+
+body{
+    background-color: #311A40;
+    font-family: Helvetica, sans-serif;
+    font-weight: 400;
+}
+.menu{
+    display: flex;
+    justify-content: center;
+    margin-left: 0px;
+    margin-top: 2rem;
+    color: aliceblue;
+    list-style: none;
+    
+    
+}
+.menu-font{
+    font-size: 15px;
+}
+.margin1{
+    margin: 15px;
+}
+.margin2{
+    margin-top: 3.5em;
+}
+.margin3{
+    margin-top: 3em;
+}
+.margin4{
+    display: flex;
+    justify-content: center;
+    color: #D92534;
+    margin-top: 4em;
+    margin-bottom: 5em;
+    
+}
+header h1{
+    color: aliceblue;
+    display: flex;
+    justify-content: center;
+    font-size: 40px;
+    margin-bottom: 10px;
+    letter-spacing: 0.15em;
+    line-height: 44px;
+    font-style: normal;
+    font-stretch: 1px;
+    font-family: 'Cinzel', serif;
+}
+.P_head{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-left: 0px;
+    margin-top: 10px;
+    margin-bottom: 1em;
+    font-family: 'Cinzel', serif;
+    font-size: 18px;
+    color: #D92534;
+    letter-spacing: 0.15em;
+}
+
+.informs{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-left: 0px;
+    margin-top: 10px;
+    margin-bottom: 1em;
+    font-size: 17px;
+    color: #d92534fb;
+    letter-spacing: 0.03em;
+    font-family: Helvetica;
+    font-weight: 400;
+    font-stretch: 1px;
+    line-height: 1.4em;
+}
+
+.fontgiga{
+    display: flex;
+    justify-content: center;
+    color: aliceblue;
+    height: 0px;
+    font-size: 0.7em;
+    margin-top: 1.5em;
+}
+main section button{
+    border: none;
+    background: transparent;
+    font-size: 17px;
+    letter-spacing: 0.03em;
+    color: aliceblue;
+}
+.butoes{
+    width: 165.5px;
+    height: 40px;
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px;
+    border-style: solid;
+    border-color: #FF2626;
+    background: transparent;
+    color: #FF2626;
+    font-size: 16px;
+    letter-spacing: 0.03em;
+    margin-right: 20px;
+}
+.butoes2{
+    width: 165.5px;
+    height: 40px;
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px;
+    border-style: solid;
+    border-color: #FF2626;
+    background: #FF2626;
+    color: rgb(63, 29, 94);
+    font-size: 16px;
+    letter-spacing: 0.03em;
+    margin-right: 20px;
+}
+.butoes3{
+    width: 250px;
+    height: 40px;
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px;
+    border-style: solid;
+    border-color: aliceblue;
+    background: transparent;
+    color:aliceblue;
+    font-size: 16px;
+    letter-spacing: 0.03em;
+    margin-right: 20px;
+}
+.fonticon{
+    font-size: 1.3em;
+    margin-right: 1em;
+}
+
