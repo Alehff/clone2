@@ -1,0 +1,230 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@200;600;700&display=swap');
+
+body{
+    display: flex;
+    flex-direction: column;
+    margin: 0px;
+    font-family: 'Work Sans', sans-serif;
+    
+    
+}
+.menu{
+    display: flex;
+    position: fixed;
+    width: 100%;
+    flex-flow: row nowrap;
+    background-color: #FEF7ED;
+    font-family: 'Work Sans', sans-serif;
+    color: #3A54B4;
+    
+}
+header div h1{
+    margin-top: 40px;
+    margin-left: 90px;
+}
+header div ul{
+    list-style: none;
+    display: flex;
+    flex-flow: row nowrap;
+    margin-left: 25rem;
+    margin-top: 30px;
+    color: cornflowerblue;
+    
+}
+header div li{
+    margin: 20px;
+    margin-bottom: 0px;
+}
+header div button{
+    background-color: #3A54B4;
+    color: whitesmoke;
+    border: none;
+    width: 180px;
+    height: 40px;
+    margin-top: 30px;
+    margin-left: 2em;
+}
+.pet-care{
+    background-color: #FEF7ED;
+    display: flex;
+    flex-flow: row;
+    margin-top: 100px;
+    margin-bottom: 40px;
+}
+.pet-care p{
+    margin-top: 0px;
+    margin-left: 300px;
+    font-size: 30px;
+    color: #3A54B4;
+
+}
+.pet-care h2{
+    margin-top: 1em;
+    margin-left: 250px;
+    margin-bottom: 10px;
+    font-size: 150px;
+    color: #3A54B4;
+}
+.pet-care img{
+    width: 475px;
+    height: 475px;
+    margin-top: 7em;
+    margin-left: 5em;
+    border-radius: 100%;
+}
+main{
+    width: 100%;
+	flex-grow: 1;
+}
+main div button{
+    background-color: #3A54B4;
+    color: whitesmoke;
+    border: none;
+    width: 180px;
+    height: 40px;
+    margin-top: 5px;
+    margin-left: 300px;
+}
+main section div img{
+    margin-top: 3em;
+    margin-left: 15em;
+    border-radius: 100%;
+}
+
+.sessoes{
+    display: flex;
+    flex-flow: row;
+}
+.alinhar{
+    display: flex;
+    margin-left:550px;
+}
+main section h3{
+    margin-top: 0.75em;
+    margin-left: 100px;
+    margin-bottom: 10px;
+    font-size: 70px;
+    color: #3A54B4;
+}
+main section p{
+    margin-top: 0.75em;
+    width: 375px;
+    margin-left: 100px;
+    margin-top: 30px;
+    font-size: 18px;
+    color: rgb(103, 103, 221);
+    
+}
+main section button{
+    background-color: #3A54B4;
+    color: whitesmoke;
+    border: none;
+    width: 180px;
+    height: 40px;
+    margin-top: 20px;
+    margin-left: 100px;
+}
+.alinhamento{
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+main section div div{
+    margin-left: 100px;
+}
+section div div div img{
+    margin-left: 0px;
+}
+section div div div h4{
+    font-size: 36px;
+    color: #3A54B4;
+    margin-left: 0px;
+    margin-top: 15px;
+    margin-bottom: 20px;
+}
+section div div div p{
+    width: 250px;
+    margin-left: 0px;
+    margin-top: 0px;
+    font-size: 18px;
+    color: #3A54B4;
+}
+main section div div div button{
+    background-color: #3A54B4;
+    color: whitesmoke;
+    border: none;
+    width: 180px;
+    height: 40px;
+    margin-top: 20px;
+    margin-left: 0px;
+    margin-bottom: 100px;
+}
+main section ul{
+    list-style: none;
+    display: flex;
+    flex-flow: row wrap;
+}
+main section li{
+    margin-bottom: 15px;
+    margin-right: 20px;
+}
+.escurescer{
+    color:#3A54B4;
+}
+footer{
+    margin-top: 50px;
+    margin-bottom: 0px;
+    background-color:#3A54B4 ;
+    width: 100%;
+    color: whitesmoke;
+    font-weight: lighter;
+}
+footer h3{
+    margin: 50px;
+    font-size: 46px;
+}
+footer h4{
+    font-size: 20px;
+    margin-bottom: 0px;
+}
+footer div{
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+    align-items: center;
+    
+}
+footer div div{
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+    align-items: center;
+    margin-right: 50px;
+    margin-bottom: 20px;
+    font-family: 'Work Sans', sans-serif;
+    font-weight: 200;
+}
+.rodape{
+    display: flex;
+    flex-flow: row wrap;
+    margin-left: 100px;
+    margin-bottom: 5px;
+    font-family: 'Work Sans', sans-serif;
+    font-weight: 200;
+    
+}
+footer button{
+    width: 600px;
+    height: 40px;
+    background-color: transparent;
+    border: none;
+    color: whitesmoke;
+    margin-left: 370px;
+}
+footer img{
+    margin-left: 150px;
+    margin-bottom: 0px;
+}
